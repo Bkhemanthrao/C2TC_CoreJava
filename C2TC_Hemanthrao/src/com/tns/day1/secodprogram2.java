@@ -85,11 +85,11 @@ public class secodprogram2 {
 
 	        // nested loop
 	        System.out.println("\nNested Loop Example:");
-	        for (int outer = 1; outer <= 3; outer++) {                                                                                                                                                                                                                                 
-	                System.out.print("(" + outer + "," + inner + ") ");
+	        
+	       
 	            }
-	            System.out.println(); 
+	         
 	        }
-	    }
-	}
+	    
+	
 
